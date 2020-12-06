@@ -1,4 +1,4 @@
-# just_breathe
+# Stop! Just Breathe – mindfulness in your pocket
 
 Do you find yourself lost in the fast-paced world? Stop! Just Breathe.
 
